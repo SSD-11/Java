@@ -8,8 +8,8 @@ public class Ejercicio1 {
         int[] numeros = new int[100];
 
         //Se recorre y se le asignan los valores
-        for(int i = 0; i < numeros.length;i++){
-            numeros[i] = i+1;
+        for (int i = 0; i < numeros.length; i++) {
+            numeros[i] = i + 1;
             //Se imprimen los datos
             System.out.println(numeros[i]);
         }
