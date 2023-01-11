@@ -1,2 +1,2 @@
 # Exercices-Java
-Variedad de ejercicios resueltos en lenguaje Java
+Variedad de ejercicios realizados en lenguaje Java
