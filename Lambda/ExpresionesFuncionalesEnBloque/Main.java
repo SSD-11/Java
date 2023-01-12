@@ -2,7 +2,7 @@ package Lambda.ExpresionesFuncionalesEnBloque;
 
 import java.util.ArrayList;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         TestPrimos t = (a, b) -> {

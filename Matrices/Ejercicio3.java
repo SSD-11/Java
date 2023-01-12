@@ -10,9 +10,9 @@ public class Ejercicio3 {
         System.out.println("Ingrese la longitud de la matriz: ");
         int longitud = sc.nextInt();//Se ingresa la longitud
 
-        int matriz1[][] = new int[longitud][longitud];
-        int matriz2[][] = new int[longitud][longitud];//Se definen las matrices
-        int resultado[][] = new int[longitud][longitud];
+        int[][] matriz1 = new int[longitud][longitud];
+        int[][] matriz2 = new int[longitud][longitud];//Se definen las matrices
+        int[][] resultado = new int[longitud][longitud];
 
         for (int i = 0; i < matriz1.length; i++) {//Se recorren las matrices para darle sus valores
             for (int j = 0; j < matriz1[0].length; j++) {

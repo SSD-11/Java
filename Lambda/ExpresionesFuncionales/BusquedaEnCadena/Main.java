@@ -1,6 +1,6 @@
 package Lambda.ExpresionesFuncionales.BusquedaEnCadena;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         CadenaTest t = (cad1, cad2) -> (cad1.indexOf(cad2) != -1);
