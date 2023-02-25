@@ -8,7 +8,7 @@ public class Auto {
         this.marca = marca;
         this.modelo = modelo;
         this.color = color;
-        System.out.println("Se ha creado un objeto de la clase AutoMovil Marca: " + this.marca + " Modelo: " + this.modelo + " y es de color: " + this.color);
+        System.out.println("Se ha creado un objeto de la clase AutoMovil Marca: " + this.marca + " Modelo: " + this.modelo + " y es de color " + this.color);
     }
 
     public Auto(int cfuerza) {
@@ -18,33 +18,27 @@ public class Auto {
 
     //Metodos
 
-    void arrancar(){
+    void arrancar() {
         System.out.println("-El vehiculo se Enciende..");
     }
 
-    String acelerar(int km){
-        km*=3;//km =km *3
+    String acelerar(int km) {
+        km *= 3;//km =km *3
 
-        return ("-El Vehiculo va a "+ km +"km por hora..");
+        return ("-El Vehiculo va a " + km + " km por hora..");
     }
 
-    String girar(int dir){
-        return (dir==1?"Derecha..":"Izquierda..");//Si la direccion es 1 se girara a la derecha, de lo contrario izquierda
+    String girar(int dir) {
+        return (dir == 1 ? " Derecha.." : "Izquierda..");//Si la direccion es 1 se girara a la derecha, de lo contrario izquierda
     }
 
-    void frenar(){
+    void frenar() {
         System.out.println("-El vehiculo Frena..");
     }
 
-    void reversar(){
+    void reversar() {
         System.out.println("-El vehiculo Retrocede..");
     }
-
-
-
-
-
-
 
 
 }
