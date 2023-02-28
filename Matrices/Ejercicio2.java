@@ -11,7 +11,7 @@ public class Ejercicio2 {
         System.out.println("Ingrese un numero de columnas: ");
         int c = sc.nextInt();//Se ingresa la longitud de las columnas
 
-        int matriz[][] = new int[5][c];//Se define la matriz
+        int[][] matriz = new int[5][c];//Se define la matriz
 
         //Se recorre la matriz
         for (int i = 0; i < matriz.length; i++) {
@@ -23,7 +23,7 @@ public class Ejercicio2 {
         }
     }
 
-    //Funcion para generar numeros aleatorios en un rango especifico
+    //Función para generar números aleatorios en un rango específico
     public static int generaNumAleatorio(int minimo, int maximo) {
 
         return (int) Math.floor(Math.random() * (minimo - (maximo + 1)) + (maximo + 1));
