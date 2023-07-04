@@ -17,9 +17,7 @@ public class Ejercicio4 {
         int[] numeros = new int[longitud];
 
         //Se recorre el array y se asignan los valores con la funcion para generar numeros aleatorios
-        for (
-                int i = 0;
-                i < numeros.length; i++) {
+        for (int i = 0; i < numeros.length; i++) {
             numeros[i] = generaNumeroAleatorio(0, 10);
             System.out.println("En la posicion " + i + " esta el valor: " + numeros[i]);
         }
