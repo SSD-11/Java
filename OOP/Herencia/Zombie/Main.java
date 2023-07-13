@@ -1,4 +1,4 @@
-package Poo.Herencia.Zombie;
+package OOP.Herencia.Zombie;
 
 public class Main {
 

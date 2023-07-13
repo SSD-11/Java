@@ -1,4 +1,4 @@
-package Poo.Practice.Orni;
+package OOP.Practice.Orni;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Poo.Constructores;
+package OOP.Constructores;
 
 import java.util.Scanner;
 

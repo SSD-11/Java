@@ -1,4 +1,4 @@
-package Poo.Herencia.Vampiro;
+package OOP.Herencia.Vampiro;
 
 public class Vampiro {
     private String nombre;

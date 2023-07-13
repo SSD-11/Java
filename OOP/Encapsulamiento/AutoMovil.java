@@ -1,4 +1,4 @@
-package Poo.Encapsulamiento;
+package OOP.Encapsulamiento;
 
 public class AutoMovil {
 

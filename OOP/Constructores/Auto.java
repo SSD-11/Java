@@ -1,4 +1,4 @@
-package Poo.Constructores;
+package OOP.Constructores;
 
 public class Auto {
     static private String marca, modelo, color;

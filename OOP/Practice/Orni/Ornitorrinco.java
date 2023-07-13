@@ -1,4 +1,4 @@
-package Poo.Practice.Orni;
+package OOP.Practice.Orni;
 
 public class Ornitorrinco extends Mamifero implements Anfibio, Oviparo, Venenoso {
     @Override

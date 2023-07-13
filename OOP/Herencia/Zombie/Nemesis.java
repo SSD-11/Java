@@ -1,4 +1,4 @@
-package Poo.Herencia.Zombie;
+package OOP.Herencia.Zombie;
 
 public class Nemesis extends Zombie{
     private String apellido;
