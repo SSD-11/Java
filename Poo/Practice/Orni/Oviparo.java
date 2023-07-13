@@ -1,4 +1,4 @@
-package Poo.Practica.Orni;
+package Poo.Practice.Orni;
 
 public interface Oviparo {
     int ponerHuevos();

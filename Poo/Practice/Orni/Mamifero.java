@@ -1,4 +1,4 @@
-package Poo.Practica.Orni;
+package Poo.Practice.Orni;
 
 public abstract class Mamifero {
     abstract void amamantar();

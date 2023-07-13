@@ -1,4 +1,4 @@
-package Poo.Practica.Ejer1;
+package Poo.Practice.Ejer1;
 
 public class Alumno {
 
