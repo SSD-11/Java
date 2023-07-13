@@ -1,4 +1,4 @@
-package Poo.Practica;
+package Poo.Practica.Ejer1;
 
 public class Asignatura {
     private String nombre;
