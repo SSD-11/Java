@@ -1,6 +1,5 @@
-package Matrices;
+package Matrix;
 
-//Crear una matriz de 3x3 con los numeros del 1 al 9. Mostrar por pantalla,tal como aparece en la matriz
 public class Ejercicio1 {
 
     public static void main(String[] args) {

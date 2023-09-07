@@ -1,6 +1,4 @@
-package Matrices;
-//Crear una matriz de 5 filas y n columnas (se pide al usuario). Rellenarlo con números
-//aleatorios entre 0 y 10.
+package Matrix;
 
 import java.util.Scanner;
 
