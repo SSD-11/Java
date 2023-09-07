@@ -1,5 +1,4 @@
 package Arrays;
-//Crea un array de una longitud que determine el usuario y que le permita insertar numeros entre 0 y 10
 
 import java.util.Scanner;
 

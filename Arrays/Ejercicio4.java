@@ -2,7 +2,6 @@ package Arrays;
 
 import java.util.Scanner;
 
-//Crea un array insertando números aleatorios entre 0 y 10. Muestralos por pantalla.
 public class Ejercicio4 {
     public static void main(String[] args) {
 

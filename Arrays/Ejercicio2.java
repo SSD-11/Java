@@ -1,5 +1,4 @@
 package Arrays;
-//Con el array creado anteriormente, calcula la suma y la media de todos sus valores.
 
 public class Ejercicio2 {
     public static void main(String[] args) {
