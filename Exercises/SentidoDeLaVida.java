@@ -1,4 +1,4 @@
-package Spoj;/*Su programa es utilizar el enfoque de fuerza bruta para encontrar la respuesta a la vida, el universo y
+package Exercises;/*Su programa es utilizar el enfoque de fuerza bruta para encontrar la respuesta a la vida, el universo y
 todo. Más precisamente... reescribir números pequeños de entrada a salida. Deje de procesar la entrada después de leer
    el número 42. Todos los números en la entrada son enteros de uno o dos dígitos.
  */

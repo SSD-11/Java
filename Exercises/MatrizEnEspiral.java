@@ -1,4 +1,4 @@
-package Spoj;/*Se desea llenar una matriz cuadrada de n x n, con los valores de 1 a n x n ordenandolos de forma de
+package Exercises;/*Se desea llenar una matriz cuadrada de n x n, con los valores de 1 a n x n ordenandolos de forma de
 espiral dentro de la matriz
  */
 

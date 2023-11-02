@@ -1,4 +1,4 @@
-package Spoj;/*Dados dos números naturales (ambos no mayores de 200), cada número en una línea separada, imprima la suma
+package Exercises;/*Dados dos números naturales (ambos no mayores de 200), cada número en una línea separada, imprima la suma
  ellos.
 */
 import java.util.Scanner;

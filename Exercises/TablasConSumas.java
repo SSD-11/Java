@@ -1,4 +1,4 @@
-package Spoj;
+package Exercises;
 
 public class TablasConSumas {
 
